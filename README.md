@@ -2,6 +2,7 @@
 
 Nome dos integrantes; 
 
+Lucas Tadeu Ribeiro - 0030482111021
 Lucas Vinicius - 0030482111020
 
 JONADAB SANTANA VIEIRA CERQUEIRA  - 0030482111044
