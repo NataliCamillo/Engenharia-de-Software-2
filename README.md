@@ -2,6 +2,8 @@
 
 Nome dos integrantes; 
 
+João Pedro Alves de Campos - 0030482111008
+
 Jonadab Santana Vieira Cerqueira - 0030482111044
 
 Lucas Tadeu Ribeiro - 0030482111021
