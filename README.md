@@ -2,7 +2,7 @@
 
 O projeto consiste em um sistema de adoção de animais,nele será possível encontrar animais para adoção próximo da localização do usuário.
 
-Ferramentas que serão utilizadas![Alt]https://www.google.com/url?sa=i&url=https%3A%2F%2Fwprock.fr%2Fpt%2Ft%2Femoji%2Flaptop%2F&psig=AOvVaw0CKn-1KC8_Uybchy6MDYXQ&ust=1645932175804000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOio9J22nPYCFQAAAAAdAAAAABAD
+Ferramentas que serão utilizadas![1f4bb](https://user-images.githubusercontent.com/88383765/155827251-d0347bd1-3465-43fb-a0bb-57d7885e4c8e.png)
 -
 -
 -
