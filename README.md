@@ -6,7 +6,7 @@ Ferramentas que serão utilizadas
 -
 -
 -
--
+-.
 
 Nome dos integrantes
 
