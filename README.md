@@ -1,5 +1,5 @@
 # Projeto de Engenharia de Software:file_folder:
-Tema: ######Título 
+Tema: # Título 
 -
 
 O projeto consiste em um sistema de adoção de animais,nele será possível encontrar animais para adoção próximo da localização do usuário.
