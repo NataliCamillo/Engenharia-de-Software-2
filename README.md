@@ -6,10 +6,10 @@ Tema:MyPet
 O projeto consiste em um sistema de adoção de animais,nele será possível encontrar animais para adoção próximo da localização do usuário.
 
 Ferramentas que serão utilizadas:computer:
--
--
--
--
+- FrontEnd: React;
+- BackEnd: Node;
+- BD: Oracle;
+- Infra: AwardSpace
 
 Nome dos integrantes
 -
