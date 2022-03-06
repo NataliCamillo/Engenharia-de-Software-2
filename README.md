@@ -9,7 +9,7 @@ Ferramentas que serão utilizadas:computer:
 - FrontEnd: React;
 - BackEnd: Node;
 - BD: Oracle;
-- Infra: AwardSpace
+- Infra: AwardSpace;
 
 Nome dos integrantes
 -
