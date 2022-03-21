@@ -3,7 +3,7 @@ Tema:MyPet
 -
 
 
-O projeto consiste em um sistema de adoção de animais,nele será possível encontrar animais para adoção próximo da localização do usuário.
+O projeto consiste em um sistema de adoção de animais, nele será possível anunciar, encontrar através do mapa animais para adoção próximo da localização do usuário, favoritar pets, cadastrar novos pets e por fim adotar o animal escolhido.
 
 Ferramentas que serão utilizadas:computer:
 -
