@@ -26,5 +26,6 @@ Nome dos integrantes
 - Natali Elis Souza Camillo - 0030482111030
 
 - Tiago Aparecido Sala - 0030482111031
--
+
 Caso de Uso https://lucid.app/lucidchart/ed507062-b36b-4359-9051-9ab5917cd261/edit?invitationId=inv_863ca856-64b5-4602-aa3a-7edb8a09cbeb
+-
