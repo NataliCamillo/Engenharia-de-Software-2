@@ -21,7 +21,7 @@ Nome dos integrantes
 
 - Lucas Tadeu Ribeiro - 0030482111021
 
-- Lucas Vinicius - 0030482111020
+- Lucas Oliveira - 0030482111020
 
 - Natali Elis Souza Camillo - 0030482111030
 
