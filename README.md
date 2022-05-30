@@ -7,9 +7,9 @@ O projeto consiste em um sistema de adoção de animais, nele será possível an
 
 Ferramentas que serão utilizadas:computer:
 -
-- FrontEnd: React;
+- FrontEnd: React e React Native (mobile);
 - BackEnd: Node;
-- BD: Oracle;
+- BD: MySql;
 - Infra: AWS;
 
 Nome dos integrantes
